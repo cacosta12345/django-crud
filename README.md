@@ -38,6 +38,8 @@ Django.test
 
 Tests location - django-snacks/snacks/tests.py
 
+Tests pass create, update, and delete
+
 Run tests - python manage.py test
 
 
